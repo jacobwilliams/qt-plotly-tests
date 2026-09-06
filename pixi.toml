@@ -1,7 +1,7 @@
 [workspace]
 authors = ["Jacob Williams <jacobwilliams@users.noreply.github.com>"]
 channels = ["conda-forge"]
-name = "delete-me-2"
+name = "qt-plotly-tests"
 platforms = ["osx-arm64"]
 version = "0.1.0"
 
