@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Jacob Williams <jacobwilliams@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "delete-me-2"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.7,<3.15"
+pyside6 = ">=6.11.1,<7"
+qt6-webengine = ">=6.11.1,<7"
+plotly = ">=6.9.0,<7"
+numpy = ">=2.5.2,<3"
+pandas = ">=3.0.5,<4"
